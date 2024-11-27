@@ -6,7 +6,7 @@ We thank you very much for your interest in our survey! Our goal is to survey de
 Please feel free to share this sheet, or these links, to any members of the deaf and hard of hearing community in your network! We have surveys available in English, Spanish, French, Chinese (Traditional), Chinese (Simplified), Turkish, Farsi, Arabic, and Hindi. Further, if you are in need of an interpreter to complete the survey, please reach out to Katherine Atwell at atwell.ka@northeastern.edu
 
 ## Links to survey
-Below are links to our survey in each supported language
+Below are links to our survey in each supported language.
 ### English
 [English survey](https://forms.gle/TpcfJiwmpVQziFbW8)
 
