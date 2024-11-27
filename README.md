@@ -7,4 +7,7 @@ Please feel free to share this sheet, or these links, to any members of the deaf
 ## Links to survey
 Below are links to our survey in each supported language
 ### English
-[https://forms.gle/TpcfJiwmpVQziFbW8] 
+[English survey](https://forms.gle/TpcfJiwmpVQziFbW8)
+
+### Spanish 
+
