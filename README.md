@@ -10,4 +10,7 @@ Below are links to our survey in each supported language
 [English survey](https://forms.gle/TpcfJiwmpVQziFbW8)
 
 ### Spanish 
+[Spanish survey](https://forms.gle/nJNWoGZhXkTj7by97)
 
+### French
+[French survey](https://forms.gle/PXwrxeEE1xNWNUyy9)
