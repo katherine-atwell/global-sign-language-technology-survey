@@ -19,10 +19,10 @@ Below are links to our survey in each supported language.
 ### فارسی
 [نظرسنجی](https://forms.gle/o8yoMtVV2e6ygHVo7)
 
-### 中國人
+### 中文 (繁體)
 [民調](https://forms.gle/L2Gr2j4FiD8R2nQr5)
 
-### 中国人
+### 中文 (简体)
 [民意调查](https://forms.gle/amFqyBSzFMaaDL6E6)
 
 ### हिंदी
