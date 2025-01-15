@@ -10,26 +10,26 @@ Below are links to our survey in each supported language.
 ### English
 [English survey](https://forms.gle/TpcfJiwmpVQziFbW8)
 
-### Spanish 
+### Español
 [Spanish survey](https://forms.gle/nJNWoGZhXkTj7by97)
 
-### French
+### Français
 [French survey](https://forms.gle/PXwrxeEE1xNWNUyy9)
 
-### Farsi
+### فارسی
 [Farsi survey](https://forms.gle/o8yoMtVV2e6ygHVo7)
 
-### Chinese (Traditional)
+### 中國人
 [Chinese (Traditional) survey](https://forms.gle/L2Gr2j4FiD8R2nQr5)
 
-### Chinese (Simplified)
+### 中国人
 [Chinese (Simplified) survey](https://forms.gle/amFqyBSzFMaaDL6E6)
 
-### Hindi
+### हिंदी
 [Hindi survey](https://forms.gle/juJW4GpzfYByuNQg9)
 
-### Turkish
+### Türkçe
 [Turkish survey](https://forms.gle/eWi5nsQfCu5k5Khj8)
 
-### Arabic
+### عربي
 [Arabic survey](https://forms.gle/DVASm1ecgbpK8upbA)
