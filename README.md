@@ -8,28 +8,28 @@ Please feel free to share this sheet, or these links, to any members of the deaf
 ## Links to survey
 Below are links to our survey in each supported language.
 ### English
-[English survey](https://forms.gle/TpcfJiwmpVQziFbW8)
+[survey](https://forms.gle/TpcfJiwmpVQziFbW8)
 
 ### Español
-[Spanish survey](https://forms.gle/nJNWoGZhXkTj7by97)
+[encuesta](https://forms.gle/nJNWoGZhXkTj7by97)
 
 ### Français
-[French survey](https://forms.gle/PXwrxeEE1xNWNUyy9)
+[enquête](https://forms.gle/PXwrxeEE1xNWNUyy9)
 
 ### فارسی
-[Farsi survey](https://forms.gle/o8yoMtVV2e6ygHVo7)
+[نظرسنجی](https://forms.gle/o8yoMtVV2e6ygHVo7)
 
 ### 中國人
-[Chinese (Traditional) survey](https://forms.gle/L2Gr2j4FiD8R2nQr5)
+[民調](https://forms.gle/L2Gr2j4FiD8R2nQr5)
 
 ### 中国人
-[Chinese (Simplified) survey](https://forms.gle/amFqyBSzFMaaDL6E6)
+[民意调查](https://forms.gle/amFqyBSzFMaaDL6E6)
 
 ### हिंदी
-[Hindi survey](https://forms.gle/juJW4GpzfYByuNQg9)
+[सर्वे](https://forms.gle/juJW4GpzfYByuNQg9)
 
 ### Türkçe
-[Turkish survey](https://forms.gle/eWi5nsQfCu5k5Khj8)
+[anket](https://forms.gle/eWi5nsQfCu5k5Khj8)
 
 ### عربي
-[Arabic survey](https://forms.gle/DVASm1ecgbpK8upbA)
+[استطلاع](https://forms.gle/DVASm1ecgbpK8upbA)
