@@ -33,3 +33,5 @@ Below are links to our survey in each supported language.
 
 ### عربي
 [استطلاع](https://forms.gle/DVASm1ecgbpK8upbA)
+### 日本語
+[アンケート](https://forms.gle/ZssZzyqLA251gHJGA)
