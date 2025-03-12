@@ -8,7 +8,7 @@ Please feel free to share this sheet, or these links, to any members of the deaf
 ## 💡 Why your voice matters 
 Your insights will help us better understand the global needs of the deaf and hard-of-hearing community and inform future developments in sign language technologies and policy.  
 
-## 💰 Compensation
+## 🌟 Make an impact
 For each of the first 1000 participants, $5 will be donated to the World Federation of the Deaf (WFD).
 
 ## 🔗 Links to survey
