@@ -35,8 +35,8 @@ Below are links to our survey in each supported language.
 [सर्वे](https://forms.gle/juJW4GpzfYByuNQg9)
 
 ### Türkçe
-[anket](https://forms.gle/eWi5nsQfCu5k5Khj8)
-
+[anket (orijinal)](https://forms.gle/eWi5nsQfCu5k5Khj8),
+[anket (basitleştirilmiş)](https://forms.gle/D54NPfV8QbRgr1UN8)
 ### عربي
 [استطلاع](https://forms.gle/DVASm1ecgbpK8upbA)
 ### 日本語
