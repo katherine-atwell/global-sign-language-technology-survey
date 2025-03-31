@@ -9,7 +9,7 @@ Your insights will help us better understand the global needs of the deaf and ha
 ## 🌟 Make an impact
 For each of the first 1000 participants, **$5** will be donated to the **World Federation of the Deaf (WFD)**.
 
-## Survey details
+## 📝 Survey details
 * **Time**: 10-15 minutes
 * **Languages available**: English, Spanish, French, Chinese (Traditional), Chinese (Simplified), Turkish, Farsi, Arabic, Hindi, and Japanese
 * **Interpretation**: Email Katherine Atwell at atwell.ka@northeastern.edu (We will do our best to accommodate depending on budget and logistics)
