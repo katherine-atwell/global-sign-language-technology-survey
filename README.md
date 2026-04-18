@@ -14,33 +14,5 @@ For each of the first 1000 participants, **$5** will be donated to the **World F
 * **Languages available**: English, Spanish, French, Chinese (Traditional), Chinese (Simplified), Turkish, Farsi, Arabic, Hindi, and Japanese
 * **Interpretation**: Email Katherine Atwell at atwell.ka@northeastern.edu (We will do our best to accommodate depending on budget and logistics)
 
-## 🔗 Links to survey
-Below are links to our survey in each supported language.
-### English
-[survey](https://forms.gle/TpcfJiwmpVQziFbW8)
-
-### Español
-[encuesta](https://forms.gle/nJNWoGZhXkTj7by97)
-
-### Français
-[enquête](https://forms.gle/PXwrxeEE1xNWNUyy9)
-
-### فارسی
-[نظرسنجی](https://forms.gle/o8yoMtVV2e6ygHVo7)
-
-### 中文 (繁體)
-[民調](https://forms.gle/L2Gr2j4FiD8R2nQr5)
-
-### 中文 (简体)
-[民意调查](https://forms.gle/amFqyBSzFMaaDL6E6)
-
-### हिंदी
-[सर्वे](https://forms.gle/juJW4GpzfYByuNQg9)
-
-### Türkçe
-[anket (orijinal)](https://forms.gle/eWi5nsQfCu5k5Khj8),
-[anket (basitleştirilmiş)](https://forms.gle/D54NPfV8QbRgr1UN8)
-### عربي
-[استطلاع](https://forms.gle/DVASm1ecgbpK8upbA)
-### 日本語
-[アンケート](https://forms.gle/ZssZzyqLA251gHJGA)
+## 🔗 [Link to survey](https://neu.co1.qualtrics.com/jfe/form/SV_afsnFWGCA9wUvB4)
+The [survey](https://neu.co1.qualtrics.com/jfe/form/SV_afsnFWGCA9wUvB4) is available in multiple languages, including English, Español, Français, 中文 (繁體/简体), Türkçe, فارسی, العربية, हिन्दी, and 日本語.
